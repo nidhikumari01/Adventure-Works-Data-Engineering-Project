@@ -5,7 +5,7 @@ The Adventure Works Data Project is a comprehensive data engineering initiative 
 
 The primary goal of this project is to design and implement a multi-layered data lake architecture to support data ingestion, transformation, analysis, and visualization. The architecture consists of three key layers:
 
-Raw Data Layer: This layer stores raw data as ingested from various sources, ensuring data integrity and providing a historical reference.
+###Raw Data Layer: This layer stores raw data as ingested from various sources, ensuring data integrity and providing a historical reference.
 Processed Data Layer: This layer contains cleaned and transformed data, optimized for downstream processing and analysis.
 Aggregated Data Layer: This layer is designed for high-performance querying and analytics, featuring pre-aggregated datasets tailored to business requirements.
 Key highlights of the project include:
