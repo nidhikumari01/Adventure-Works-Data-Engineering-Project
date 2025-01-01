@@ -33,10 +33,14 @@ Dataset Link - https://www.kaggle.com/datasets/ukveteran/adventure-works
 6. Azure Synapse Analytics: To build and manage a robust data warehouse.
 7. Power BI: For creating interactive dashboards and visualisations.
 
-![Project Architecture](transformed_data.png)
+![Project Architecture](ADF.png)
 
-![Project Architecture](data_factory.png)
+![Project Architecture](Azure-synapse-analytic.png)
 
-![Project Architecture](databricks.png)
+![Project Architecture](raw-bronze-data.png)
 
-![Project Architecture](azure_synapse.png)
+![Project Architecture](transformed-silver-data.png)
+
+![Project Architecture](gold-synapse.png)
+
+![Project Architecture](PowerBI-Dashboard.png)
