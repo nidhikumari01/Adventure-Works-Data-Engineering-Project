@@ -1,19 +1,19 @@
 # Adventure-Works-Data-Engineering-Project
 
-## Introduction
+## Introduction 
 The Adventure Works Data Project is a comprehensive data engineering initiative aimed at building a robust, scalable, and secure data ecosystem. The project leverages cutting-edge tools and technologies, including Python, SQL, Azure Data Factory, Azure Data Lake Gen 2, Azure Databricks, Azure Synapse Analytics, and Power BI.
 
 ##The primary goal of this project is to design and implement a multi-layered data lake architecture to support data ingestion, transformation, analysis, and visualization. The architecture consists of three key layers:
 
-Raw Data Layer: This layer stores raw data as ingested from various sources, ensuring data integrity and providing a historical reference.
-Processed Data Layer: This layer contains cleaned and transformed data, optimized for downstream processing and analysis.
-Aggregated Data Layer: This layer is designed for high-performance querying and analytics, featuring pre-aggregated datasets tailored to business requirements.
+1. Raw Data Layer: This layer stores raw data as ingested from various sources, ensuring data integrity and providing a historical reference.
+2. Processed Data Layer: This layer contains cleaned and transformed data, optimized for downstream processing and analysis.
+3. Aggregated Data Layer: This layer is designed for high-performance querying and analytics, featuring pre-aggregated datasets tailored to business requirements.
 
 ##Key highlights of the project include:
-Optimized Workflows: Developed efficient workflows using Azure Data Factory for data ingestion and transformation, ensuring minimal latency and high reliability.
-Delta Tables: Integrated Delta Tables in Azure Databricks to enhance performance, enable real-time data updates, and simplify versioning.
-Role-Based Access Control (RBAC): Implemented RBAC and Managed Identities to ensure secure and granular access to data resources.
-Data Analytics and Visualization: Utilized Azure Synapse Analytics for data warehousing and Power BI for creating interactive dashboards and reports, enabling data-driven decision-making.
+1. Optimized Workflows: Developed efficient workflows using Azure Data Factory for data ingestion and transformation, ensuring minimal latency and high reliability.
+2. Delta Tables: Integrated Delta Tables in Azure Databricks to enhance performance, enable real-time data updates, and simplify versioning.
+3. Role-Based Access Control (RBAC): Implemented RBAC and Managed Identities to ensure secure and granular access to data resources.
+4. Data Analytics and Visualization: Utilized Azure Synapse Analytics for data warehousing and Power BI for creating interactive dashboards and reports, enabling data-driven decision-making.
 
 ## About Dataset
 
