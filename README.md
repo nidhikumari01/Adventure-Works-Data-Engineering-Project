@@ -25,13 +25,13 @@ Dataset Link - https://www.kaggle.com/datasets/ukveteran/adventure-works
 ![Project Architecture](Architecture.png)
 
 # Technology Used
-1. Programming Language - Python
-2. Scripting Language - SQL
-3. Azure Cloud Platform
-    - Azure Data Factory
-    - Data Lake Gen 2
-    - Azure Databricks
-    - Azure synapse Analytics
+1. HTTP Source (Git): To fetch data from the source repository.
+2. Azure Data Factory (ADF): For seamless data transfer and orchestration.
+3. Microsoft Azure: As the foundational cloud platform.
+4. Databricks & PySpark: For data transformation and advanced processing.
+5. Azure Datalake : To store raw and transformed data.
+6. Azure Synapse Analytics: To build and manage a robust data warehouse.
+7. Power BI: For creating interactive dashboards and visualisations.
 
 ![Project Architecture](transformed_data.png)
 
